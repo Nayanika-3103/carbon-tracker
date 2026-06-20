@@ -50,7 +50,7 @@ The application enables users to track daily activities, calculate carbon emissi
 ## Dashboard
 
 <p align="center">
-<img src="assets/dashboard.png" width="900">
+<img src="assets/cT.png" width="900">
 </p>
 
 ---
